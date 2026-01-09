@@ -1,0 +1,23 @@
+This ensures the tool is treated as "Research Software."
+
+```yaml
+cff-version: 1.2.0
+title: "Liability Scanner: Automated Terms of Service Forensic Tool"
+message: "If you use this software for contract analysis or compliance workflows, please cite it as below."
+type: software
+authors:
+  - family-names: "Cata"
+    given-names: "Anthony D."
+    affiliation: "Cata Risk Lab"
+version: 1.0.0
+date-released: 2026-01-08
+license: MIT
+repository-code: "https://github.com/dcata004/Liability-Scanner"
+url: "https://huggingface.co/spaces/Cata-Risk-Lab/Liability-Scanner"
+abstract: "An automated forensic tool that scans vendor Terms of Service URLs for high-risk legal clauses, specifically identifying 'Right to Train' and 'Perpetual License' patterns that violate data sovereignty."
+keywords:
+  - "Legal Tech"
+  - "AI Governance"
+  - "GDPR Compliance"
+  - "Data Sovereignty"
+  - "Contract Analysis"
